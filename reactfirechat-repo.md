@@ -1,0 +1,8 @@
+---
+title: ReactFireChat (Create-React-App x Firebase)
+description: "This project was bootstrapped with Create React App."
+date: August 28 2023
+---
+
+#### Github: [@thaiminhnguyen1999/ReactFireChat](https://github.com/thaiminhnguyen1999/ReactFireChat/)
+#### Application Deployment Site: [reactfirechat.languagedevstudy.com](https://reactfirechat.languagedevstudy.com/)
